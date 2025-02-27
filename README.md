@@ -190,6 +190,11 @@ The dataset was **clean and complete**, with no missing values, duplicates, or n
 
 To optimize performance, two dimensional tables (Career Aspiration & Gender) were created and merged with the fact table using a common key. This approach reduces redundancy and aligns with best practices for performance optimization.
 
+
+![image](https://github.com/user-attachments/assets/7d9b66b7-4209-442d-a235-b30e340fe7fe)
+
+
+
 ## Vizualization 
 
 ### Bar Graphs on KPI cards 
