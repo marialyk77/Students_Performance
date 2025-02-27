@@ -11,23 +11,23 @@
 🔍 The dataset comprises 2,000 records and 17 attributes. 
 
 
-- id: Unique identifier assigned to each student (we need this because it is possible that two or more students have the same name).
-- first_name: The first name of a student.
-- last_name: The last name of a student.
-- email: The email address of a student.
-- gender: The gender of a student.
-- math_score: The score obtained by a student in the subject of mathematics (0 – 100).
-- history_score: History score (0 – 100).
-- physics_score: Physics score (0 – 100).
-- chemistry_score: Chemistry score (0 – 100).
--biology_score: Biology score (0 – 100).
-- english_score: English score (0 – 100).
-- geography_score: Geography score (0 – 100).
-- path_time_job: This indicates whether a student is engaged in a part-time job. Taking a part-time job can have an effect on grades.
-- absence_days: The total count of days the student was not present in class due to various reasons.
-- extracurricular_activities: This captures whether a student participates in extracurricular activities. It could include clubs, sports, arts, or other activities outside of regular academic coursework.
-- weekly_self_study_hours: This represents the number of hours a student spends on self-study each week. It indicates the amount of time the student dedicates to independent learning and studying outside of class.
-- career_aspiration: This column records the student’s career aspirations or goals for the future. It provides insight into the profession or field the student aims to pursue after completing their education.
+- **id:** Unique identifier assigned to each student (we need this because it is possible that two or more students have the same name).
+- **first_name:** The first name of a student.
+- **last_name:** The last name of a student.
+- **email:** The email address of a student.
+- **gender:** The gender of a student.
+- **math_score:** The score obtained by a student in the subject of mathematics (0 – 100).
+- **history_score:** History score (0 – 100).
+- **physics_score:** Physics score (0 – 100).
+- **chemistry_score:** Chemistry score (0 – 100).
+-**biology_score:** Biology score (0 – 100).
+- **english_score:** English score (0 – 100).
+- **geography_score:** Geography score (0 – 100).
+- **path_time_job:** This indicates whether a student is engaged in a part-time job. Taking a part-time job can have an effect on grades.
+- **absence_days:** The total count of days the student was not present in class due to various reasons.
+- **extracurricular_activities:** This captures whether a student participates in extracurricular activities. It could include clubs, sports, arts, or other activities outside of regular academic coursework.
+- **weekly_self_study_hours:** This represents the number of hours a student spends on self-study each week. It indicates the amount of time the student dedicates to independent learning and studying outside of class.
+- **career_aspiration:** This column records the student’s career aspirations or goals for the future. It provides insight into the profession or field the student aims to pursue after completing their education.
 
 
 
