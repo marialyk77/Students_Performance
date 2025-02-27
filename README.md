@@ -31,7 +31,7 @@
 
 
 
-## Data Credibility:
+## Data Credibility
 
 **Reliable:**  The current dataset is accurate and complete. Regarding bias, while the dataset appears accurate and complete, determining bias requires a deeper understanding of the data collection methods and potential underlying assumptions. Bias can stem from various sources, including sample selection, measurement processes, or inherent stereotypes. Without detailed information on these aspects, it's challenging to conclusively identify or rule out biases.
 
