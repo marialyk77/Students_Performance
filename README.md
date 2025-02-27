@@ -20,7 +20,7 @@
 - **history_score:** History score (0 – 100).
 - **physics_score:** Physics score (0 – 100).
 - **chemistry_score:** Chemistry score (0 – 100).
--**biology_score:** Biology score (0 – 100).
+- **biology_score:** Biology score (0 – 100).
 - **english_score:** English score (0 – 100).
 - **geography_score:** Geography score (0 – 100).
 - **path_time_job:** This indicates whether a student is engaged in a part-time job. Taking a part-time job can have an effect on grades.
