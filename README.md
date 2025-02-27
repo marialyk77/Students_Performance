@@ -220,7 +220,7 @@ For the bar graph showing GPA per course, a separate aggregate table was created
 
 ### Tooltip Histogram 
 
-To categorize student performance visually, a histogram was created using GPA bins based on the U.S. grading system:
+The  custom tooltip enhances the visualization by offering deeper insights into student performance. To categorize student performance visually, a histogram was created using GPA bins based on the U.S. grading system:
 
 - A (90–100): Excellent
 - B (80–89): Good
