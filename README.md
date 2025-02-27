@@ -165,7 +165,7 @@ More self-study hours are associated with higher GPA.
 ![image](https://github.com/user-attachments/assets/ac971c29-d9e7-42d4-ac4a-01d4015c2d39)
 
 
-**Final Takeaway**
+## Final Takeaway
 
 The analysis reveals that **GPA performance is not significantly influenced by gender**, as both males and females have similar academic outcomes. Instead, **key factors like absenteeism and self-study hours play a major role in determining student success**. **Higher absenteeism correlates with lower GPAs, while increased study hours contribute to better performance**. Additionally, **part-time jobs do not significantly impact GPA**, suggesting that students can balance work and academics effectively. Subjects like Math and Physics tend to have higher average scores, while History and Biology show lower performance.
 
