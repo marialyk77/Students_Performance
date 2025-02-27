@@ -44,17 +44,38 @@
 **Cited:** The data is cited because it includes a DOI (Digital Object Identifier) and references Sling Academy as the original source.
 
 
+## Grading System 
+
+🔗: https://www.slingacademy.com/article/student-scores-sample-data-csv-json-xlsx-xml/
+
+In this project, the dataset's author specifies that the grading system follows the United States' 0–100 scale, with corresponding letter grades:
+
+A: 90–100 (Excellent)
+
+B: 80–89 (Good)
+
+C: 70–79 (Satisfactory or Average)
+
+D: 60–69 (Below Average)
+
+F: 0–59 (Fail)
+
+Based on this clarification, I applied conditional formatting rules and assigned icons to table columns accordingly.
+
+
 ## Research Questions 
 
-1. How does school absence affect a student’s performance?
+1. Is there a significant difference in GPA between male and female students?
 
-2. How are weekly self-study hours related to students' GPA?
+2. How does school absence affect a student’s performance?
 
-3. Which subjects show the highest average scores?
+4. How are weekly self-study hours related to students' GPA?
 
-4. Does working a part-time job impact self-study hours and, in turn, GPA?
+5. Which subjects show the highest average scores?
 
-5. Is there any difference in absenteeism between boys and girls?
+6. Does working a part-time job impact self-study hours and, in turn, GPA?
+
+7. Is there any difference in absenteeism between boys and girls?
 
 ## Insights 
 
