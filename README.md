@@ -107,7 +107,7 @@ This suggests that gender is not a strong predictor of academic performance; oth
 
 Absenteeism has a negative impact on GPA.
 
-- The scatter plot (GPA vs. Absenteeism) clearly shows a downward trend: students with more absences tend to have lower GPAs.
+- The scatter plot (GPA vs. Absenteeism) clearly shows a downward trend: students with more absences tend to have lower GPAs and to spend less hours on studying.
 - The 100% stacked bar chart on absenteeism by gender also highlights that absenteeism varies among students, potentially influencing performance differences.
 
   
@@ -241,6 +241,22 @@ This feature enables users to investigate specific student performance patterns 
 
 
 ![image](https://github.com/user-attachments/assets/5b0f15aa-d779-444d-9875-ab0a7e5df5a5)
+
+
+The icons accompanying the course columns provide a visual representation of student performance.
+
+![image](https://github.com/user-attachments/assets/d2506f60-a95a-43f0-a631-be1e5d379911) Red downward arrow indicates a failing grade. 
+
+![image](https://github.com/user-attachments/assets/6007d2af-9267-47d3-b3e4-73871d4c5b12) Yellow dash signifies below-average performance.
+
+![image](https://github.com/user-attachments/assets/39127b5f-1eff-4957-be12-ff5428a50403) Rightward arrow represents an average score.
+
+![image](https://github.com/user-attachments/assets/b1028179-ab29-4727-8620-b7823d973b5a) Upward diagonal arrow denotes above-average performance but not yet at excellence.
+
+![image](https://github.com/user-attachments/assets/e8b596b7-d850-4455-8f83-1e355a6214da) Green upward arrow highlights an excellent score.
+
+
+
 
 
 ### Top Student Card & Info buttons 
